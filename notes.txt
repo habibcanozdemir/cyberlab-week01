@@ -1,1 +1,2 @@
 Day 1 - Linux Fundamentals
+Git tracks changes
